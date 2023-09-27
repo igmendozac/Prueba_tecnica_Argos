@@ -1,2 +1,2 @@
-# Prueba_tecnica_Argos
+# Prueba tecnica Argos
 Documentación de la prueba técnica realizada para el cargo Cientifico de Datos en Summa 
